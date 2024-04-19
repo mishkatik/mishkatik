@@ -1,6 +1,7 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/018ea69f-8444-42c0-be90-ac0c5f358ee4.svg)](https://wakatime.com/@018ea69f-8444-42c0-be90-ac0c5f358ee4)
 
 <!--
+### Hi there 👋
 **mishkatik/mishkatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
